@@ -21,7 +21,7 @@ public class InsertDAO {
     
     public static void insert(String spe)
     {
-        
+        int i=0;
         try
         {
             conn = Connect.getCon();
