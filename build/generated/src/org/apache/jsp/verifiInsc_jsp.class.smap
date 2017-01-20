@@ -1,0 +1,15 @@
+SMAP
+verifiInsc_jsp.java
+JSP
+*S JSP
+*F
++ 0 verifiInsc.jsp
+verifiInsc.jsp
+*L
+5,10:45
+15:55,10
+16:65,3
+17:68
+18,10:70
+27,5:80
+*E
