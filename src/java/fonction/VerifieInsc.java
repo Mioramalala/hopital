@@ -49,7 +49,7 @@ public class VerifieInsc {
         if(i.getNOMDOC()!="" && i.getPRENOMDOC()!="")
         {
             try
-           {
+            {
                conn = Connect.getCon();
                stm1 = conn.createStatement();
                Statement stm2 = conn.createStatement();

@@ -2,6 +2,11 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group/>
+        <group>
+            <file>file:/D:/s5/Hopital/src/java/fonction/VerifieInsc.java</file>
+            <file>file:/D:/s5/Hopital/src/java/fonction/Inscription.java</file>
+            <file>file:/D:/s5/Hopital/web/insererDoc.jsp</file>
+            <file>file:/D:/s5/Hopital/web/inscription.jsp</file>
+        </group>
     </open-files>
 </project-private>

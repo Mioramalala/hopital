@@ -130,13 +130,13 @@ public final class login_jsp extends org.apache.jasper.runtime.HttpJspBase
       out.write("\n");
       out.write("        </div>\n");
       out.write("      </div>\n");
-      out.write("    </div>\n");
+      out.write("   \n");
       out.write("    \n");
       out.write("\n");
       out.write("\n");
       out.write("        <div class=\"dialog\">\n");
       out.write("    <div class=\"panel panel-default\">\n");
-      out.write("        <p class=\"panel-heading no-collapse\">Sign In</p>\n");
+      out.write("        <p class=\"panel-heading no-collapse\">Connexion</p>\n");
       out.write("        <div class=\"panel-body\">\n");
       out.write("            <form>\n");
       out.write("                <div class=\"form-group\">\n");
@@ -152,7 +152,6 @@ public final class login_jsp extends org.apache.jasper.runtime.HttpJspBase
       out.write("            </form>\n");
       out.write("        </div>\n");
       out.write("    </div>\n");
-      out.write("    <p class=\"pull-right\" style=\"\"><a href=\"http://www.portnine.com\" target=\"blank\" style=\"font-size: .75em; margin-top: .25em;\">Design by Portnine</a></p>\n");
       out.write("    <p><a href=\"inscription.jsp\">Vous n'etes pas encore inscrit?</a></p>\n");
       out.write("</div>\n");
       out.write("\n");
